@@ -45,8 +45,8 @@ a capacidade da empresa de agir de forma preventiva. O objetivo central do proje
 │   ├── 01_EDA_NPS_Preditivo.ipynb        # Análise Exploratória de Dados (Requisito 3)
 │   └── 02_Modelo_Preditivo.ipynb         # Modelo de Classificação com Random Forest (Requisito 4)
 │
-├── ppt/
-│   └── Storytelling Gerencial.pptx       # Apresentação Gerencial
+├── videos/
+│   └── apresentacao_storytelling.mp4     # Apresentação Gerencial
 │
 └── README.md
 ```
