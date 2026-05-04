@@ -36,11 +36,17 @@ a capacidade da empresa de agir de forma preventiva. O objetivo central do proje
 
 ```
 ├── data/
-│   └── desafio_nps_fase_1.csv        # Base de dados histórica de pedidos e NPS
+│   └── desafio_nps_fase_1.csv            # Base de dados histórica de pedidos e NPS
+│
+├── docs/
+│   └── Respostas - Questões 1 e 2.doc    # Respostas Analíticas dos Pontos 1 e 2
 │
 ├── notebooks/
-│   ├── 01_EDA_NPS_Preditivo.ipynb    # Análise Exploratória de Dados (Requisito 3)
-│   └── 02_Modelo_Preditivo.ipynb     # Modelo de Classificação com Random Forest (Requisito 4)
+│   ├── 01_EDA_NPS_Preditivo.ipynb        # Análise Exploratória de Dados (Requisito 3)
+│   └── 02_Modelo_Preditivo.ipynb         # Modelo de Classificação com Random Forest (Requisito 4)
+│
+├── ppt/
+│   └── Storytelling Gerencial.pptx       # Apresentação Gerencial
 │
 └── README.md
 ```
